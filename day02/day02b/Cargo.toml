@@ -1,0 +1,7 @@
+[package]
+name = "day02b"
+version = "0.1.0"
+authors = ["Alex Jordan <abjordan@gmail.com>"]
+
+[dependencies]
+edit-distance = "2.0.1"
